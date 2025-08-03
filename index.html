@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Argyle Village HOA</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+    }
+
+    /* Sidebar styling */
+    .sidebar {
+      width: 250px;
+      background-color: #333;
+      color: white;
+      height: 100vh;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      display: block;
+      margin: 10px 0;
+    }
+
+    .sidebar a:hover {
+      text-decoration: underline;
+    }
+
+    /* Main content styling */
+    .content {
+      flex: 1;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+      .sidebar {
+        width: 200px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>Sidebar</h2>
+    <a href="#section1">Section 1</a>
+    <a href="#section2">Section 2</a>
+    <a href="#section3">Section 3</a>
+  </div>
+  <div class="content">
+    <h1>Argyle Village Hoa</h1>
+    <p>This is a simple example of a page with a sidebar.</p>
+    <h2 id="section1">Home</h2>
+    <p>Content for section 1 goes here.</p>
+    <h2 id="section2">Grounds</h2>
+    <p>Content for section 2 goes here.</p>
+    <h2 id="section3">Calendar</h2>
+    <p>Content for section 3 goes here.</p>
+  </div>
+</body>
+</html>
