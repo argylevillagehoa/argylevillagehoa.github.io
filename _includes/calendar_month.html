@@ -1,0 +1,77 @@
+<!-- _includes/calendar_month.html -->
+{% assign month_name = include.month %}
+{% assign year = include.year %}
+
+{% comment %} Get the first day of the month {% endcomment %}
+{% assign first_day_of_month = year | append: '-' | append: month_name | append: '-01' | date: "%s" %}
+
+{% comment %} Determine the day of the week for the first day (0 = Sunday, 6 = Saturday) {% endcomment %}
+{% assign start_day_of_week = first_day_of_month | date: "%w" | plus: -1 %}
+
+{% comment %} Calculate total days in the month {% endcomment %}
+{% assign days_in_month = "now" | date: "%s" | date: "%d" %}
+{% case month_name %}
+  {% when "01" or "03" or "05" or "07" or "08" or "10" or "12" %}
+    {% assign days_in_month = 31 %}
+  {% when "02" %}
+    {% comment %} Check for leap year {% endcomment %}
+    {% assign is_leap_year = year | modulo: 4 %}
+    {% if is_leap_year == 0 %}
+      {% assign days_in_month = 29 %}
+    {% else %}
+      {% assign days_in_month = 28 %}
+    {% endif %}
+  {% else %}
+    {% assign days_in_month = 30 %}
+{% endcase %}
+
+<h3>{{ first_day_of_month | date: "%B %Y" }}</h3>
+
+<table class="calendar-table">
+  <thead>
+    <tr>
+      <th>Sun</th>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      {% for i in (0..start_day_of_week) %}
+        <td></td>
+      {% endfor %}
+
+      {% for day in (1..days_in_month) %}
+        {% assign current_date = year | append: '-' | append: month_name | append: '-' | append: day | date: "%Y-%m-%d" %}
+        {% assign day_of_week = current_date | date: "%w" | plus: 0 %}
+
+        {% if day_of_week == 0 and day != 1 %}
+          </tr><tr>
+        {% endif %}
+
+        <td>
+          <div class="date-cell">
+            <span class="day-number">{{ day }}</span>
+            {% for event in site.data.events %}
+            {% if event.date == current_date %}
+                <div class="event {{ event.category | downcase }}">{{ event.title }}</div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </td>
+      {% endfor %}
+
+      {% comment %} Fill remaining cells for the last week {% endcomment %}
+      {% assign remaining_cells = 7 | minus: day_of_week | minus: 1 %}
+      {% if remaining_cells > 0 %}
+        {% for i in (1..remaining_cells) %}
+          <td></td>
+        {% endfor %}
+      {% endif %}
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,71 @@
+/* assets/css/style.css */
+.wrapper {
+    display: flex;
+}
+
+.sidebar {
+    width: 200px; /* Adjust as needed */
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+/* assets/css/style.css */
+
+/* ... (previous styles for sidebar and wrapper) ... */
+
+.calendar-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.calendar-table th, .calendar-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.calendar-table th {
+    background-color: #f0f0f0;
+}
+
+.date-cell {
+    min-height: 80px; /* Adjust as needed */
+    position: relative;
+}
+
+.day-number {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.event {
+    background-color: #e0f7fa;
+    border-left: 5px solid #00bcd4;
+    margin-bottom: 3px;
+    padding: 3px 5px;
+    font-size: 0.9em;
+    text-align: left;
+}
+
+/* Event categories styling (optional) */
+.event.work {
+    background-color: #fff9c4;
+    border-left-color: #ffeb3b;
+}
+
+.event.personal {
+    background-color: #fce4ec;
+    border-left-color: #e91e63;
+}
+
+.event.public {
+    background-color: #e8f5e9;
+    border-left-color: #4caf50;
+}
