@@ -56,8 +56,10 @@
         <td>
           <div class="date-cell">
             <span class="day-number">{{ day }}</span>
-            {% for event in site.data.events %}
-            {% if event.date == current_date %}
+            {% for event in site.data.events %} 
+              {% assign event_date_formatted = event.date | date: "%Y-%m-%d" %}
+              {% assign current_date_formatted = current_date | date: "%Y-%m-%d" %}
+              {% if event_date_formatted == current_date_formatted %}
                 <div class="event {{ event.category | downcase }}">{{ event.title }}</div>
               {% endif %}
             {% endfor %}
