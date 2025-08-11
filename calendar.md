@@ -3,10 +3,4 @@ layout: default
 title: Calendar
 ---
 
-<h1>Events Calendar</h1>
-
-{% comment %} Display August 2025 {% endcomment %}
-{% include calendar_month.html month="08" year="2025" %}
-
-{% comment %} Display September 2025 {% endcomment %}
-{% include calendar_month.html month="09" year="2025" %}
+<iframe src="https://calendar.google.com/calendar/embed?src=argylevillagehoa%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
