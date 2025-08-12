@@ -6,14 +6,15 @@ title: Grounds
 # Grounds
 ## Trash Removal  
 
-![grounds](/assets/f1000071_grounds.gif)
+![grounds](./assets/f1000071_grounds.gif)
 
 Each year the AVHOA signs a contract with a private company for trash removal. This contract is paid out of the homeowners&rsquo; association fees (there will also be a charge for solid waste on your County tax bill, but this charge covers operation of the landfill, not collection). Our current trash collector is B&amp;B Refuse of Clarksburg, Maryland (301) 424 1427.
 
-*Trash pick-up days are Mondays and Thursdays.*
-Trash should be placed at the curb in front of your house no later than 7 a.m. on the day of collection (but no earlier than 6 p.m. the evening before).
-The County requires all trash to be in tall, heavy-duty plastic trash containers with secure covers (crows often scavenge trash put out in loose garbage or other bags, making a mess all over the neighborhood streets and sidewalks). Generally, all trash should be bagged before being put inside the trash container. This is especially necessary if you use a trash can larger than 33-gallon capacity because B&amp;B will collect the bags but will not pick up loose trash in larger containers. Please also note that B&amp;B will not collect any materials that fall into the categories that the County recycles (see below), nor hazardous or non-domestic waste (for example, poisonous or caustic materials; paint; gasoline and oil; building debris; tires; volatile solvents; human or animal fecal matter; and dead animals). 
-After the trash collection, please put the empty trash containers promptly inside your garage, and clean up any accidental spills.
+* *Trash pick-up days are Mondays and Thursdays.*
+* Trash should be placed at the curb in front of your house no later than 7 a.m. on the day of collection (but no earlier than 6 p.m. the evening before).
+* The County requires all trash to be in tall, heavy-duty plastic trash containers with secure covers (crows often scavenge trash put out in loose garbage or other bags, making a mess all over the neighborhood streets and sidewalks). Generally, all trash should be bagged before being put inside the trash container. This is especially necessary if you use a trash can larger than 33-gallon capacity because B&amp;B will collect the bags but will not pick up loose trash in larger containers. Please also note that B&amp;B will not collect any materials that fall into the categories that the County recycles (see below), nor hazardous or non-domestic waste (for example, poisonous or caustic materials; paint; gasoline and oil; building debris; tires; volatile solvents; human or animal fecal matter; and dead animals). 
+* After the trash collection, please put the empty trash containers promptly inside your garage, and clean up any accidental spills.
+
 ## Recycling
 
 Montgomery County aims to recycle 50% of its solid waste. The County provides curbside collection of items for *recycling on Tuesdays.* The previous owners should have left a blue plastic recycling container for these items. If you did not find a container when you moved in, call the Division of Solid Waste Services at (240) 777-6410 for a replacement (you can also order containers and other materials from their website: [Montgomery County Recycles](https://www.montgomerycountymd.gov/DEP/trash-recycling/index.html))
@@ -73,4 +74,4 @@ We ask you to help keep it a beautiful and safe place. If you have dogs, clean u
 
 Of course, what applies to the pond applies equally to other parts of the community: no one enjoys having their yards or sidewalk areas fouled by dogs, or having children racing uninvited through their yard, using their driveway as a bicycle or skateboard ramp, or damaging their trees and landscaping. Please be considerate of your neighbors, and teach your children the same.
 
-![aerial_view_of_pond](/assets/f0003_aerial_view_of_pond_and_pt_3.jpg)
+![aerial_view_of_pond](./assets/f0003_aerial_view_of_pond_and_pt_3.jpg)
