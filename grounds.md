@@ -6,7 +6,7 @@ title: Grounds
 # Grounds
 ## Trash Removal  
 
-![grounds](./assets/f1000071_grounds.gif)
+<img border="0" src="/assets/f1000071_grounds.gif">
 
 Each year the AVHOA signs a contract with a private company for trash removal. This contract is paid out of the homeowners&rsquo; association fees (there will also be a charge for solid waste on your County tax bill, but this charge covers operation of the landfill, not collection). Our current trash collector is B&amp;B Refuse of Clarksburg, Maryland (301) 424 1427.
 
@@ -21,12 +21,12 @@ Montgomery County aims to recycle 50% of its solid waste. The County provides cu
 
 The materials that are accepted for recycling are listed in the attached leaflet. Broadly, they are:<br />
 
-### Household wastes
+## Household wastes
 
 * Mixed paper, which includes newspapers, cereal and similar boxes, and office paper. These items should be placed in brown paper shopping bags, or bundled and tied with string, or put in closed cardboard boxes not bigger than 15 inches wide. All empty cardboard boxes should be flattened and tied in bundles. 
 * Glass jars and bottles, aluminum and steel cans, aluminum foil, and plastic bottles with necks - but not other types of plastic container. These materials should be rinsed and put in the blue recycling container. Lids and caps should be removed, but the materials should not be crushed (if crushed, they cause problems in the recycling equipment). Because light materials such as soda cans and bottles easily blow away and become a neighborhood nuisance, it is helpful if you put your bundles of papers on top of them to keep them in place until collection.
 
-### Yard Wastes
+## Yard Wastes
 
 Yard wastes include
 * grass clippings, yard trimmings and tree branches. These items should be discarded as follows: 
@@ -74,4 +74,4 @@ We ask you to help keep it a beautiful and safe place. If you have dogs, clean u
 
 Of course, what applies to the pond applies equally to other parts of the community: no one enjoys having their yards or sidewalk areas fouled by dogs, or having children racing uninvited through their yard, using their driveway as a bicycle or skateboard ramp, or damaging their trees and landscaping. Please be considerate of your neighbors, and teach your children the same.
 
-![aerial_view_of_pond](./assets/f0003_aerial_view_of_pond_and_pt_3.jpg)
+<img border="0" src="/assets/f0003_aerial_view_of_pond_and_pt_3.jpg">
