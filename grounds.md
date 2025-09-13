@@ -39,7 +39,7 @@ Montgomery County regulations forbid private trash collection services from acce
 
 ## Trash Removal and Recycling (Holidays)
 
-There are no trash or recycling pick-ups on *Memorial Day, the Fourth of July, Labor Day, Thanksgiving, Christmas or New Year&rsquo;s Day.*
+[B&B Refuse](https://www.bandbrefuseinc.com/) is the company that collects trash.  There are no trash or recycling pick-ups on *Memorial Day, the Fourth of July, Labor Day, Thanksgiving, Christmas or New Year&rsquo;s Day.*
 
 When a holiday falls on a Monday or a Thursday, a special trash pick-up will be made the day after each of these holidays, and a special recycling pick-up on the Tuesday following a Monday holiday.
 
@@ -47,7 +47,7 @@ When a holiday falls on a Monday or a Thursday, a special trash pick-up will be 
 
 The County will plow the streets and spread salt and/or sand when necessary. However, you are responsible for clearing your own driveway and sidewalks. Montgomery County requires that snow removal from public sidewalks be completed within 24 hours of the end of the snowfall. If this is not done in a timely manner, the County may fine you for non-compliance.
 
-You can check the current status of [Montgomery County's snow removal operation on the county's website](https://www.montgomerycountymd.gov/Snow/)&nbsp; *Don't call or e-mail any of the HOA Board of Directors for snow removal information.&nbsp; You pay county taxes, snow removal is a county function.*
+You can check the current status of [Montgomery County's snow removal operation on the county's website](https://www.montgomerycountymd.gov/Snow/)*Snow removal is a county function.*
 
 ## Street Lights
 
