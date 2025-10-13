@@ -14,6 +14,8 @@ The AVHOA fees for <strong>2025</strong> are $636 annually or <strong>$53 per mo
 <br />
 Each January IKO sends you a payment book that shows the new monthly dues for upcoming year. Although this invoice will be for only one month&rsquo;s fees, it makes our administration much simpler if you can either pay the full year&rsquo;s fees in advance (which is what many of our members choose to do). If this is not convenient, you may pay on a six-monthly, or quarterly basis. However, please note that your payments are due at the beginning of whatever payment period you select.<br />
 <br />
+It is the responsibility of each homeowner to verify D.H. Bader has your up-to-date contact information including your mailing address and e-mail address.
+<br />
 
 <u>Architectural Changes, Exterior Painting, Additions, etc.</u>
 
