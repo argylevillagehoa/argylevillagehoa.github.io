@@ -8,6 +8,10 @@ title: Documents
 <p>
 *<a href="/documents_old">Pre-2024 Documents</a>*
 <p>
+<i><a href="/downloads/minutes/November_18_2025.docx">November 18, 2025 Meeting Minutes</a></i>
+<p>
+<i><a href="/downloads/minutes/October_4_2025.docx">October 4, 2025 Meeting Minutes</a></i>
+<p>
 <i><a href="/downloads/minutes/September_16_2025.docx">September 16, 2025 Meeting Minutes</a></i>
 <p>
 <i><a href="/downloads/minutes/July_31_2025.docx">July 31, 2025 Meeting Minutes</a></i>
